@@ -1,5 +1,5 @@
-# 👋🏻 Hi, I’m @lukegg
+# 👋🏻 Hi, I’m Luke
 
-I usually follow topics and discussions here on GitHub as opposed to committing code, as I'm still fairly new to the whole thing.
+I usually follow topics and discussions here on GitHub as opposed to committing code. But who knows, all my repos are private. 🤷
 
 Cheers!
